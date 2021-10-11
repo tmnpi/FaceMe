@@ -1,3 +1,0 @@
-include ':app'
-rootProject.name = "FaceMe"
-include ':openCVLibrary3413'
